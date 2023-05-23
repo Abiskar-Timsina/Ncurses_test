@@ -1,2 +1,2 @@
 a.exe: main.cpp
-	g++ -lncurses main.cpp -o a.out
+	g++ main.cpp -o test -lncurses
